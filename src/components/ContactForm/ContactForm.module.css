@@ -1,11 +1,11 @@
 .contactForm {
-  width: 378px;
-  margin: 0 auto 16px;
+  width: 380px;
+  margin: 0 auto 10px;
   display: flex;
   flex-direction: column;
   border: 1px solid #213547;
   border-radius: 4px;
-  padding: 14px;
+  padding: 10px;
 }
 
 .contactFormLabel {
@@ -14,7 +14,6 @@
 }
 .contactFormField {
   padding: 6px;
-
   border: 1px solid #124e83;
   border-radius: 4px;
   outline: transparent;

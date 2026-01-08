@@ -1,7 +1,7 @@
 .searchBox {
   display: flex;
   flex-direction: column;
-  width: 378px;
+  width: 400px;
   margin: 0 auto;
 }
 .searchBoxLable {
